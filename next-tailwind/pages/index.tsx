@@ -29,7 +29,7 @@ const Home: NextPage = () => {
         <div className="mt-6 flex max-w-4xl flex-wrap items-center justify-around sm:w-full">
           <a
             href="https://nextjs.org/docs"
-            className="mt-6 w-96 rounded-xl border p-6 text-left hover:text-red-600 focus:text-red-600"
+            className="mt-6 w-96 rounded-xl border p-6 text-left hover:text-blue-600 focus:text-blue-600"
           >
             <h3 className="text-2xl">Documentation &rarr;</h3>
             <p className="mt-4 text-xl">
@@ -43,7 +43,7 @@ const Home: NextPage = () => {
           >
             <h3 className="text-2xl ">Learn &rarr;</h3>
             <p className="mt-4 text-xl">
-              Learn about Next.js in an interactive course with quizzes!
+              Learn about Next.js in an interactive course with quizzes!!
             </p>
           </a>
 
